@@ -1,0 +1,3 @@
+from TicTacToe import *
+
+Play()
